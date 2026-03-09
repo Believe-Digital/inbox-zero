@@ -14,7 +14,7 @@ permissions:
 
 env:
   DOCKER_IMAGE_REGISTRY: "ghcr.io"
-  GHCR_OWNER: Believe-Digital"
+  GHCR_OWNER: "Believe-Digital"
   DOCKER_USERNAME: "believedigital"
   DEPOT_PROJECT_ID: "20l02mdj06"
 
