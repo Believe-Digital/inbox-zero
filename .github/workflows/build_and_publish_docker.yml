@@ -14,12 +14,11 @@ permissions:
 
 env:
   DOCKER_IMAGE_REGISTRY: "ghcr.io"
-  DOCKER_USERNAME: "elie222"
-  DEPOT_PROJECT_ID: "2s1sh2pjrf"
+  DOCKER_USERNAME: "believedigital"
+  DEPOT_PROJECT_ID: "20l02mdj06"
 
 jobs:
   build-docker:
-    if: github.repository == 'elie222/inbox-zero'
     name: "Build Docker Image"
     runs-on: ubuntu-latest
 
