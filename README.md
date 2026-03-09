@@ -1,17 +1,15 @@
 [![](apps/web/app/opengraph-image.png)](https://www.getinboxzero.com)
 
 <p align="center">
-  <a href="https://www.getinboxzero.com">
-    <h1 align="center">Inbox Zero - your 24/7 AI email assistant</h1>
+  <a href="https://believe.digital/services/data-analysis-visualisation/">
+    <h1 align="center">Inbox Zero - your 24/7 AI email assistant: Hosted by Believe Digital</h1>
   </a>
   <p align="center">
     Organizes your inbox, pre-drafts replies, and tracks follow‑ups - so you reach inbox zero faster. Open source alternative to Fyxer, but more customisable and secure.
     <br />
-    <a href="https://www.getinboxzero.com">Website</a>
+    <a href="https://believe.digital">Website</a>
     ·
-    <a href="https://www.getinboxzero.com/discord">Discord</a>
-    ·
-    <a href="https://github.com/elie222/inbox-zero/issues">Issues</a>
+    <a href="https://github.com/Believe-Digital/inbox-zero/issues">Issues</a>
   </p>
 </p>
 
