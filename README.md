@@ -1,7 +1,5 @@
-[![](apps/web/app/opengraph-image.png)](https://www.getinboxzero.com)
-
 <p align="center">
-  <a href="https://believe.digital/services/data-analysis-visualisation/">
+  <a href="https://believe.digital/web-development-services//">
     <h1 align="center">Inbox Zero - your 24/7 AI email assistant: Hosted by Believe Digital</h1>
   </a>
   <p align="center">
